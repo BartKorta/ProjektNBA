@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="nowyPrzedrostek">
+    <file>chi.png</file>
+    <file>phi.png</file>
+    <file>ny.png</file>
+  </qresource>
+  <qresource prefix="nowyPrzedrostek">
+    <file>tor.png</file>
+    <file>bos.png</file>
+  </qresource>
+  <qresource prefix="nowyPrzedrostek">
+    <file>bkn.png</file>
+  </qresource>
+</RCC>
